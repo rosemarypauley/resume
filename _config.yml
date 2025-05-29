@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Rosemary Pauley"
-resume_title:                   "Program Coordinator GW Opsen Source Program Office"
+resume_title:                   "Program Coordinator GW Open Source Program Office"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "r.pauley@gwu.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
