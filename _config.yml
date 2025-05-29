@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Rosemary Pauley"
-resume_title:                   "Program Coordinator, GW Opsen Source Program Office"
+resume_title:                   "Program Coordinator GW Opsen Source Program Office"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
