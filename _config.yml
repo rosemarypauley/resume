@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  false
+resume_avatar:                  "false"
 resume_name:                    "Rosemary Pauley"
 resume_title:                   "Program Coordinator, GW Open Source Program Office"
 
@@ -21,7 +21,7 @@ resume_contact_telephone:       "804-572-9846"
 resume_contact_address:         "1232 Rabdwick Valley Court, Zebulon NC 27597"
 
 resume_header_contact_info:     "1232 Rabdwick Valley Court, Zebulon NC 27597 • 804-572-9846 • r.pauley@gwu.edu"
-display_header_contact_info:    false
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Though originally from a background in librarianship and information sciences, I have joined George Washington University's Open Source Program Office as Program Coordinator. I am passionate about community, communication, access, and outreach. Through my work with GW's OSPO and Libraries, I hope to continue my career in communications and library support while making an impact on the lives of educators, students, and the public. </p>"
 
